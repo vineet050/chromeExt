@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(160, 231, 236);
+}
+
+#aa{
+    padding: 7px;
+}
+
+#website{
+    background-color: rgb(206, 233, 252);
+}
+
+#add_website{
+    color: red;
+    font-weight: bold;
+}
